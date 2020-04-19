@@ -28,3 +28,4 @@ SqlDataAdapter (sda)
 test: add komment
 test: cancel comment
 add branch1
+delete branch1
